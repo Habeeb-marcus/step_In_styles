@@ -25,9 +25,10 @@ To view the app's UI/UX designs, please visit our [Figma Design](https://www.fig
 
 ## Step in style app
 <img width="425" alt="Screenshot 2024-04-08 at 09 38 02" src="https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/ee30830b-ba31-4c93-b13d-f34609fd1294">
+
 ![Screenshot 2024-04-08 at 09 49 32](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/678c2b31-c75a-4e92-97ba-bd79be4a7e08)
-![Screenshot 2024-04-08 at 09 48 56](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/c729a56b-8418-4fda-a73e-022f65d3f5dd)
 ![Screenshot 2024-04-04 at 00 06 49](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/13fea5f3-7496-4dee-b639-3cfcda2e4ab6)
+![Screenshot 2024-04-08 at 09 59 56](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/f7c5ddae-cb86-4e37-8f20-b880e11c2eca)
 
 ## Getting Started
 Follow these instructions to set up the project on your local machine for development and testing purposes.
