@@ -23,6 +23,12 @@ Welcome to the Shoe E-commerce Mobile App repository. Our app offers a unique an
 ## Design
 To view the app's UI/UX designs, please visit our [Figma Design](https://www.figma.com/file/hKeFTDnUAecxuZWrLz1OdE/Shoes---Ecomm-App-Design-(Community)?type=design&node-id=1-1419&mode=design&t=LcBT9ezt781KjJ0J-0).
 
+## Step in style app
+<img width="425" alt="Screenshot 2024-04-08 at 09 38 02" src="https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/ee30830b-ba31-4c93-b13d-f34609fd1294">
+![Screenshot 2024-04-08 at 09 49 32](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/678c2b31-c75a-4e92-97ba-bd79be4a7e08)
+![Screenshot 2024-04-08 at 09 48 56](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/c729a56b-8418-4fda-a73e-022f65d3f5dd)
+![Screenshot 2024-04-04 at 00 06 49](https://github.com/Habeeb-marcus/step_In_styles/assets/77323680/13fea5f3-7496-4dee-b639-3cfcda2e4ab6)
+
 ## Getting Started
 Follow these instructions to set up the project on your local machine for development and testing purposes.
 
